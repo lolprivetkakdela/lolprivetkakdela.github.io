@@ -16,6 +16,12 @@
       "src": "apple-touch-icon.png",
       "sizes": "152x152",
       "type": "image/png"
+    },
+    {
+      "src": "maskable_icon.png",
+      "sizes": "155x155",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "start_url": "./index.html",
